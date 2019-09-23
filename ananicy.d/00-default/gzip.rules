@@ -1,0 +1,1 @@
+{ "name": "gzip", "type": "BG_CPUIO", "nice": 18 }
